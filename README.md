@@ -28,8 +28,7 @@ choco install vscode
 
 3. Using the integrated terminal, open the desired feature in VSCode Terminal
 
-![image](https://github.com/maciekstuczyk/VmQuickDeploy/assets/83386742/60702723-b62f-4562-9f58-f6baa9398cdf)
-
+![image](https://github.com/maciekstuczyk/VmQuickDeploy/assets/83386742/ac1c0f01-28d1-41c9-91f1-b797738a1593)
 
 4. Make any desired changes to the VM Template (Additional information is available within the documentation located in the source files)
 
