@@ -45,4 +45,5 @@ Available Azure policies can be found in the Microsoft documentation: https://le
 Description: Will modify the policy details that will be applied at the subscription level. 
 
 **NOTE**: Each policy requires both a definition field to be configured and a matching assignment variable. Please note the exmaple below:
-![image](https://github.com/maciekstuczyk/VMQuickDeploy/assets/83386742/8f04be6a-d2ef-4771-8e52-1b41a5e8aefb)
+![image](https://github.com/maciekstuczyk/VmQuickDeploy/assets/83386742/3348b544-f597-4654-998e-9a77f1a94690)
+
